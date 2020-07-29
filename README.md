@@ -8,7 +8,7 @@ Create migrations
 $ python manage.py makemigrations
 $ python manage.py migrate
 ```
-To, Create Superuser within folder run command
+To, Create Superuser run command
 ```
 $ python manage.py createsuperuser
 ```
